@@ -1,0 +1,46 @@
+body {
+  background: rgb(251,247,247);
+  background: linear-gradient(90deg, rgba(251,247,247,1) 18%, rgba(245,220,220,1) 50%, rgba(250,186,186,1) 98%);
+}
+#title {
+  text-align: center;
+}
+.sub-title {
+  text-align: center;
+  font-family: monospace;
+}
+#image {
+  width: 100%;
+}
+#img-caption {
+  text-align: center;
+  font-size: 25px;
+}
+#tribute-info {
+  background: rgba(251,247,247,0.2);
+  background: linear-gradient(90deg, rgba(251,247,247,1) 18%, rgba(245,220,220,1) 50%, rgba(250,186,186,1) 98%);
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 18px;
+}
+#tribute-info p {
+  margin-top: 25px;
+  font-size: 19px;
+}
+.button-link {
+  text-align: center;
+}
+#tribute-link {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 12px;
+  border: 2px solid gray;
+}
+#tribute-link:hover {
+  color: black;
+  text-decoration: underline;
+  border: 2px solid black;
+  background: rgba(251,247,247,0.2);
+  background: linear-gradient(90deg, rgba(251,247,247,1) 18%, rgba(245,220,220,1) 50%, rgba(250,186,186,1) 98%);  
+}
