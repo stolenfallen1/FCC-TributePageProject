@@ -1,3 +1,4 @@
 # FCC-TributePageProject
-This is a very simple freeCodeCamp Tribute Page Project!
-This is one of the 5 challenges/projects freeCodeCamp provided
+Tribute Page Project
+* This Project is inspired from freeCodeCamp, One of the activities in Responsive Web Design Certification *
+Used technologies / languages / tools : Sublime text, HTML, CSS
